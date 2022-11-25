@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+/* KBText Regular */
+@font-face {
+	font-family:'KBText';
+	font-style:normal;
+	font-weight: 400;
+	font-display: swap;
+	src:url('https://oimg1.kbstar.com/img/kbfont/KBFGTextL.woff') format('woff');
+}
+
+/* KBText Italic */
+@font-face {
+	font-family:'KBText';
+	font-style:italic;
+	font-weight: 400;
+	font-display: swap;
+	src:url('https://oimg1.kbstar.com/img/kbfont/KBFGTextL.woff') format('woff');
+}
+
+
+/* KBText Bold*/
+@font-face {
+	font-family:'KBText';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src:url('https://oimg1.kbstar.com/img/kbfont/KBFGTextL.woff') format('woff');
+}
+
+/* KBText Bold Italic */
+@font-face {
+	font-family:'KBText';
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src:url('https://oimg1.kbstar.com/img/kbfont/KBFGTextL.woff') format('woff');
+}
+
